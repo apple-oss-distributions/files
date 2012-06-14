@@ -4,16 +4,15 @@
 <dict>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000038</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000037</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>56</string>
+		<string>55</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_pcastserver</string>
-		<string>pcastserver</string>
+		<string>_appleevents</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -21,7 +20,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Podcast Producer Server</string>
+		<string>AppleEvents Daemon</string>
 	</array>
 </dict>
 </plist>

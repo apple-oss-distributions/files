@@ -4,15 +4,15 @@
 <dict>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF000000E1</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000038</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>225</string>
+		<string>56</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_pcastlibrary</string>
+		<string>_geod</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,7 +20,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Podcast Library Server</string>
+		<string>Geo Services Daemon Group</string>
 	</array>
 </dict>
 </plist>

@@ -4,16 +4,19 @@
 <dict>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000055</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF0000000D</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>85</string>
+		<string>13</string>
+	</array>
+	<key>groupmembers</key>
+	<array>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000000D</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_xgridcontroller</string>
-		<string>xgridcontroller</string>
+		<string>_taskgated</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -21,7 +24,11 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Xgrid Controller</string>
+		<string>Task Gate Daemon</string>
+	</array>
+	<key>users</key>
+	<array>
+		<string>_taskgated</string>
 	</array>
 </dict>
 </plist>

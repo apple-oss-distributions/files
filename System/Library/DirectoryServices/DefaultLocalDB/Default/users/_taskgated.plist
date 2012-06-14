@@ -4,16 +4,15 @@
 <dict>
 	<key>gid</key>
 	<array>
-		<string>86</string>
+		<string>13</string>
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/xgrid/agent</string>
+		<string>/var/empty</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_xgridagent</string>
-		<string>xgridagent</string>
+		<string>_taskgated</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -21,7 +20,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Xgrid Agent</string>
+		<string>Task Gate Daemon</string>
 	</array>
 	<key>shell</key>
 	<array>
@@ -29,11 +28,11 @@
 	</array>
 	<key>uid</key>
 	<array>
-		<string>86</string>
+		<string>13</string>
 	</array>
 	<key>generateduid</key>
 	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000056</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000000D</string>
 	</array>
 </dict>
 </plist>
