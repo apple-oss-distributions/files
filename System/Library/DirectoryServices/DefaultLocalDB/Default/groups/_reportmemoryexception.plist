@@ -4,16 +4,19 @@
 <dict>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF0000003A</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF0000010D</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>58</string>
+		<string>269</string>
+	</array>
+	<key>groupmembers</key>
+	<array>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000010D</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_serialnumberd</string>
-		<string>serialnumberd</string>
+		<string>_reportmemoryexception</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -21,7 +24,11 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Serial Number Daemon</string>
+		<string>ReportMemoryException</string>
+	</array>
+	<key>users</key>
+	<array>
+		<string>_reportmemoryexception</string>
 	</array>
 </dict>
 </plist>

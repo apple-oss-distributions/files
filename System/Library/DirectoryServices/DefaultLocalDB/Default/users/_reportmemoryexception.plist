@@ -4,16 +4,15 @@
 <dict>
 	<key>gid</key>
 	<array>
-		<string>58</string>
+		<string>269</string>
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/empty</string>
+		<string>/var/db/reportmemoryexception</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_serialnumberd</string>
-		<string>serialnumberd</string>
+		<string>_reportmemoryexception</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -21,7 +20,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Serial Number Daemon</string>
+		<string>ReportMemoryException</string>
 	</array>
 	<key>shell</key>
 	<array>
@@ -29,11 +28,11 @@
 	</array>
 	<key>uid</key>
 	<array>
-		<string>58</string>
+		<string>269</string>
 	</array>
 	<key>generateduid</key>
 	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000003A</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000010D</string>
 	</array>
 </dict>
 </plist>
