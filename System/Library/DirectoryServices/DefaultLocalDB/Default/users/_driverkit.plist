@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>generateduid</key>
+	<array>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000010E</string>
+	</array>
 	<key>gid</key>
 	<array>
-		<string>33</string>
+		<string>270</string>
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/db/appstore</string>
+		<string>/var/empty</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_appstore</string>
+		<string>_driverkit</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,7 +24,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Mac App Store Service</string>
+		<string>DriverKit</string>
 	</array>
 	<key>shell</key>
 	<array>
@@ -28,11 +32,7 @@
 	</array>
 	<key>uid</key>
 	<array>
-		<string>33</string>
-	</array>
-	<key>generateduid</key>
-	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000021</string>
+		<string>270</string>
 	</array>
 </dict>
 </plist>

@@ -4,15 +4,15 @@
 <dict>
 	<key>gid</key>
 	<array>
-		<string>33</string>
+		<string>268</string>
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/db/appstore</string>
+		<string>/var/db/nearbyd</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_appstore</string>
+		<string>_nearbyd</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,7 +20,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Mac App Store Service</string>
+		<string>Proximity and Ranging Daemon</string>
 	</array>
 	<key>shell</key>
 	<array>
@@ -28,11 +28,11 @@
 	</array>
 	<key>uid</key>
 	<array>
-		<string>33</string>
+		<string>268</string>
 	</array>
 	<key>generateduid</key>
 	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000021</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000010C</string>
 	</array>
 </dict>
 </plist>
