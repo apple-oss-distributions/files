@@ -8,7 +8,7 @@
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/db/fud</string>
+		<string>/var/db/accessoryupdater</string>
 	</array>
 	<key>gid</key>
 	<array>
@@ -16,7 +16,7 @@
 	</array>
 	<key>name</key>
 	<array>
-		<string>_fud</string>
+		<string>_accessoryupdater</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -24,7 +24,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Firmware Update Daemon</string>
+		<string>Accessory Update Daemon</string>
 	</array>
 	<key>shell</key>
 	<array>

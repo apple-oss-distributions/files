@@ -4,19 +4,20 @@
 <dict>
 	<key>generateduid</key>
 	<array>
-		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000116</string>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000119</string>
 	</array>
 	<key>gid</key>
 	<array>
-		<string>278</string>
+		<string>281</string>
 	</array>
 	<key>groupmembers</key>
 	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000116</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000119</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000010A</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_fud</string>
+		<string>_sntpd</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -24,11 +25,12 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Firmware Update Daemon</string>
+		<string>SNTP Server Daemon</string>
 	</array>
 	<key>users</key>
 	<array>
-		<string>_fud</string>
+		<string>_sntpd</string>
+		<string>_timed</string>
 	</array>
 </dict>
 </plist>
