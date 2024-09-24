@@ -2,17 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>gid</key>
+	<key>generateduid</key>
 	<array>
-		<string>295</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000129</string>
 	</array>
 	<key>home</key>
 	<array>
-		<string>/var/db/terminus</string>
+		<string>/var/db/eligibilityd</string>
+	</array>
+	<key>gid</key>
+	<array>
+		<string>297</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_terminusd</string>
+		<string>_eligibilityd</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,7 +24,7 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Terminus</string>
+		<string>OS Eligibility Daemon</string>
 	</array>
 	<key>shell</key>
 	<array>
@@ -28,11 +32,7 @@
 	</array>
 	<key>uid</key>
 	<array>
-		<string>295</string>
-	</array>
-	<key>generateduid</key>
-	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000127</string>
+		<string>297</string>
 	</array>
 </dict>
 </plist>

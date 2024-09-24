@@ -2,17 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>generateduid</key>
+	<array>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF000000D7</string>
+	</array>
 	<key>gid</key>
 	<array>
-		<string>295</string>
+		<string>215</string>
 	</array>
-	<key>home</key>
+	<key>groupmembers</key>
 	<array>
-		<string>/var/db/terminus</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000D7</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_terminusd</string>
+		<string>_dpaudio</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,19 +24,11 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Terminus</string>
+		<string>DP Audio Group</string>
 	</array>
-	<key>shell</key>
+	<key>users</key>
 	<array>
-		<string>/usr/bin/false</string>
-	</array>
-	<key>uid</key>
-	<array>
-		<string>295</string>
-	</array>
-	<key>generateduid</key>
-	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000127</string>
+		<string>_dpaudio</string>
 	</array>
 </dict>
 </plist>

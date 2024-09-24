@@ -2,17 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>generateduid</key>
+	<array>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF0000012D</string>
+	</array>
 	<key>gid</key>
 	<array>
-		<string>295</string>
-	</array>
-	<key>home</key>
-	<array>
-		<string>/var/db/terminus</string>
+		<string>301</string>
 	</array>
 	<key>name</key>
 	<array>
-		<string>_terminusd</string>
+		<string>_modelmanagerd</string>
 	</array>
 	<key>passwd</key>
 	<array>
@@ -20,19 +20,15 @@
 	</array>
 	<key>realname</key>
 	<array>
-		<string>Terminus</string>
+		<string>Model Manager</string>
 	</array>
-	<key>shell</key>
+	<key>groupmembers</key>
 	<array>
-		<string>/usr/bin/false</string>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000012D</string>
 	</array>
-	<key>uid</key>
+	<key>users</key>
 	<array>
-		<string>295</string>
-	</array>
-	<key>generateduid</key>
-	<array>
-		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000127</string>
+		<string>_modelmanagerd</string>
 	</array>
 </dict>
 </plist>
